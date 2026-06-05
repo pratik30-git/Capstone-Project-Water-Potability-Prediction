@@ -1,1 +1,1 @@
-# Capstone-Project-Water-Potability-Prediction
+# Capstone Project-Water Potability Prediction
